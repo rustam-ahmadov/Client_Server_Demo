@@ -1,0 +1,15 @@
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\bin\Debug\net6.0\ClientCS.exe
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\bin\Debug\net6.0\ClientCS.deps.json
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\bin\Debug\net6.0\ClientCS.runtimeconfig.json
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\bin\Debug\net6.0\ClientCS.dll
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\bin\Debug\net6.0\ClientCS.pdb
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\ClientCS.csproj.AssemblyReference.cache
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\ClientCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\ClientCS.AssemblyInfoInputs.cache
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\ClientCS.AssemblyInfo.cs
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\ClientCS.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\ClientCS.dll
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\refint\ClientCS.dll
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\ClientCS.pdb
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\ClientCS.genruntimeconfig.cache
+C:\Users\Rustam\Documents\CppProjects\ClientCS_ServerCPP\ClientCS\obj\Debug\net6.0\ref\ClientCS.dll
